@@ -4,6 +4,8 @@
 
 * [PRECISE localizations of repeating Fast Radio Bursts](https://arxiv.org/pdf/2202.11644.pdf)
 
+* [FRB 121102: drastic changes in the burst polarization contrasts with the stability of the persistent emission](https://arxiv.org/pdf/2202.10519.pdf)
+
 * [Model-independent classification of events from the first CHIME/FRB Fast Radio Burst catalog](https://arxiv.org/pdf/2202.10076.pdf)
 
 * [A path to precision cosmology: Synergy between four promising late-universe cosmological probes](https://arxiv.org/pdf/2202.09726.pdf)
@@ -13,6 +15,8 @@
 * [Frequency Dependent Polarization of Repeating Fast Radio Bursts - Implications for Their Origin](https://arxiv.org/pdf/2202.09601.pdf)
 
 * [A fast radio burst with sub-millisecond quasi-periodic structure](https://arxiv.org/pdf/2202.08002.pdf)
+
+* [The FRB 20121102A November rain in 2018 observed with the Arecibo Telescope](https://arxiv.org/pdf/2202.05705.pdf)
 
 * [Circular polarisation of fast radio bursts in the curvature radiation scenario](https://arxiv.org/pdf/2202.05475.pdf)
 
@@ -41,3 +45,4 @@
 * [The Absence of Periodicity in Repeating FRB](https://arxiv.org/pdf/2201.02910.pdf)
 
 * [A comprehensive observational study of the FRB 121102 persistent radio source](https://arxiv.org/pdf/2201.00999.pdf)
+
