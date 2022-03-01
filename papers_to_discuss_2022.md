@@ -1,4 +1,6 @@
-* [A Highly Variable Magnetized Environment in a Fast Radio Burst Source](https://arxiv.org/pdf/2202.11112.pdf)
+* [The Large Dispersion and Scattering of FRB 20190520B are Dominated by the Host Galaxy](https://arxiv.org/pdf/2202.13458.pdf)
+
+*  [A Highly Variable Magnetized Environment in a Fast Radio Burst Source](https://arxiv.org/pdf/2202.11112.pdf)
 
 * [PRECISE localizations of repeating Fast Radio Bursts](https://arxiv.org/pdf/2202.11644.pdf)
 
