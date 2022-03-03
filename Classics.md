@@ -1,4 +1,6 @@
-* [Lorimer Burst](https://www.science.org/doi/10.1126/science.1147532)
+<h2> Landmark papers in the field of FRBs <h2>
+
+  * [Lorimer Burst](https://www.science.org/doi/10.1126/science.1147532)
 
 * [First repeater, FRB121102](https://www.nature.com/articles/nature17168.pdf)
 
