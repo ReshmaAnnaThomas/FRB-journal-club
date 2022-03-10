@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Electromagnetic fireworks: Fast radio bursts from rapid reconnection in the compressed magnetar wind](https://arxiv.org/pdf/2203.04320.pdf)
+
+* [The Low Frequency Perspective on Fast Radio Bursts](https://arxiv.org/pdf/2203.04890.pdf)
+
+* [The Sources of Apparently Non-Repeating FRB](https://arxiv.org/pdf/2203.03675.pdf)
+
 * [The Large Dispersion and Scattering of FRB 20190520B are Dominated by the Host Galaxy](https://arxiv.org/pdf/2202.13458.pdf)
 
 *  [A Highly Variable Magnetized Environment in a Fast Radio Burst Source](https://arxiv.org/pdf/2202.11112.pdf)
