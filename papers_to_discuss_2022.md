@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [AT2020hur: A Possible Optical Counterpart of FRB 180916B](https://arxiv.org/pdf/2203.06994.pdf)
+
+* [Angular Dependence of Coherent Radio Emission from Magnetars with Multipolar Magnetic Fields](https://arxiv.org/pdf/2203.06507.pdf)
+
+* [Effects of Gravitational Wave Radiation of Eccentric Neutron Star-White Dwarf Binaries on the Periodic Activity of Fast Radio Burst Sources](https://arxiv.org/pdf/2203.06303.pdf)
+
 * [Electromagnetic fireworks: Fast radio bursts from rapid reconnection in the compressed magnetar wind](https://arxiv.org/pdf/2203.04320.pdf)
 
 * [The Low Frequency Perspective on Fast Radio Bursts](https://arxiv.org/pdf/2203.04890.pdf)
