@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 11 March 2022
+  
+Papers Discussed:
+
+* [A Bright Millisecond Radio Burst of Extragalactic Origin](https://www.science.org/doi/10.1126/science.1147532)
+
+* [A fast radio burst with sub-millisecond quasi-periodic structure](https://arxiv.org/pdf/2202.08002.pdf)
+
 <h2>4 March 2022 </h2>
 
 Papers Discussed:
