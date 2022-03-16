@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Limits on the hard X-ray emission from the periodic fast radio burst FRB 180916.J0158+65](https://arxiv.org/pdf/2203.07489.pdf)
+
+* [Simultaneous view of the FRB 180301 with FAST and NICER during a bursting phase](https://arxiv.org/pdf/2203.07465.pdf)
+
 * [AT2020hur: A Possible Optical Counterpart of FRB 180916B](https://arxiv.org/pdf/2203.06994.pdf)
 
 * [Angular Dependence of Coherent Radio Emission from Magnetars with Multipolar Magnetic Fields](https://arxiv.org/pdf/2203.06507.pdf)
