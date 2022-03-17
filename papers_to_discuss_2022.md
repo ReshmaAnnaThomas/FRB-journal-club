@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Magnetic Field Reversal around an Active Fast Radio Burst](https://arxiv.org/pdf/2203.08151.pdf)
+
 * [Limits on the hard X-ray emission from the periodic fast radio burst FRB 180916.J0158+65](https://arxiv.org/pdf/2203.07489.pdf)
 
 * [Simultaneous view of the FRB 180301 with FAST and NICER during a bursting phase](https://arxiv.org/pdf/2203.07465.pdf)
