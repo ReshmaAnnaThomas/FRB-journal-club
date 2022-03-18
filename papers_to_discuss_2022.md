@@ -1,5 +1,10 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Search for the correlations between host properties and DMhost of fast
+radio bursts: constraints on the baryon mass fraction in IGM](https://arxiv.org/pdf/2203.09139.pdf)
+
+* [Comparison of the Parkes and FAST FRB DM Distribution](https://arxiv.org/pdf/2203.08816.pdf)
+
 * [Magnetic Field Reversal around an Active Fast Radio Burst](https://arxiv.org/pdf/2203.08151.pdf)
 
 * [Limits on the hard X-ray emission from the periodic fast radio burst FRB 180916.J0158+65](https://arxiv.org/pdf/2203.07489.pdf)
