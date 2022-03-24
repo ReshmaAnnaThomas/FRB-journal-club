@@ -1,5 +1,10 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A Possible Subclassification of Fast Radio Bursts](https://arxiv.org/pdf/2203.12551.pdf)
+
+* [Search for Gravitational Waves Associated with Fast Radio Bursts Detected by CHIME/FRB During the
+LIGO–Virgo Observing Run O3a](https://arxiv.org/pdf/2203.12038.pdf)
+
 * [Search for the correlations between host properties and DMhost of fast
 radio bursts: constraints on the baryon mass fraction in IGM](https://arxiv.org/pdf/2203.09139.pdf)
 
