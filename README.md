@@ -2,6 +2,20 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 25 March 2022 </h2>
+
+Papers Discussed:
+
+* [The Large Dispersion and Scattering of FRB 20190520B are Dominated by the Host Galaxy](https://arxiv.org/pdf/2202.13458.pdf)
+
+* [Search for Gravitational Waves Associated with Fast Radio Bursts Detected by CHIME/FRB During the
+LIGO–Virgo Observing Run O3a](https://arxiv.org/pdf/2203.12038.pdf)
+
+* [Magnetic Field Reversal around an Active Fast Radio Burst](https://arxiv.org/pdf/2203.08151.pdf)
+
+* [First repeater, FRB121102](https://www.nature.com/articles/nature17168.pdf)
+
+
 <h2> 11 March 2022 </h2>
   
 Papers Discussed:
