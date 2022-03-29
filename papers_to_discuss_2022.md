@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Fast Radio Bursts](https://arxiv.org/pdf/2203.14198.pdf)
+
 * [What it takes to measure Reionization with Fast Radio Bursts](https://arxiv.org/pdf/2203.12645.pdf)
 
 * [A Possible Subclassification of Fast Radio Bursts](https://arxiv.org/pdf/2203.12551.pdf)
