@@ -1,5 +1,12 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Search for Coincident Gravitational Wave and Fast Radio Burst Events from 4-OGC and the First
+CHIME/FRB Catalog](https://arxiv.org/pdf/2203.17222.pdf)
+
+* [Insight-HXMT dedicated 33-day observation of SGR J1935+2154 I. Burst Catalog](https://arxiv.org/pdf/2203.16855.pdf)
+
+* [Radio Scattering Horizons for Galactic and Extragalactic Transients](https://arxiv.org/pdf/2203.16716.pdf)
+
 * [The Environment and Constraints on the Mass of FRB 190520B](https://arxiv.org/pdf/2203.14943.pdf)
 
 * [Fast Radio Bursts](https://arxiv.org/pdf/2203.14198.pdf)
