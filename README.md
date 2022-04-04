@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 1 April 2022 </h2>
+
+Papers Discussed:
+
+* [A repeating fast radio burst source in a globular cluster](https://www.nature.com/articles/s41586-021-04354-w)
+
+* [First Localization](https://www.nature.com/articles/nature20797)
+
 <h2> 25 March 2022 </h2>
 
 Papers Discussed:
