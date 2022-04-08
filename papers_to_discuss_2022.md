@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Quasi-periodic oscillations of the X-ray burst from the magnetar SGR J1935+2154 and associated with the fast radio
+burst FRB 200428](https://arxiv.org/pdf/2204.03253.pdf)
+
 * [Search for Coincident Gravitational Wave and Fast Radio Burst Events from 4-OGC and the First
 CHIME/FRB Catalog](https://arxiv.org/pdf/2203.17222.pdf)
 
