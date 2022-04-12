@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The Northern Cross Fast Radio Burst project - II. Monitoring of repeating
+FRB 20180916B, 20181030A, 20200120E and 20201124A](https://arxiv.org/pdf/2204.05050.pdf)
+
 * [Quasi-periodic oscillations of the X-ray burst from the magnetar SGR J1935+2154 and associated with the fast radio
 burst FRB 200428](https://arxiv.org/pdf/2204.03253.pdf)
 
