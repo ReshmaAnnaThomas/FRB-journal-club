@@ -1,5 +1,18 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Propagation of a fast radio burst through a birefringent relativistic plasma](https://arxiv.org/pdf/2204.10816.pdf)
+
+* [Non-detection of CHIME/FRB sources with the Arecibo Observatory](https://arxiv.org/pdf/2204.09090.pdf)
+
+* [A repeating fast radio burst residing in a magnetar/Be star
+binary](https://arxiv.org/pdf/2204.08124.pdf)
+
+* [A High-Time Resolution Search for Compact Objects using Fast Radio Burst
+Gravitational Lens Interferometry with CHIME/FRB](https://arxiv.org/pdf/2204.06014.pdf)
+
+* [Constraining Primordial Black Holes using Fast Radio Burst
+Gravitational-Lens Interferometry with CHIME/FRB](https://arxiv.org/pdf/2204.06001.pdf)
+
 * [The Northern Cross Fast Radio Burst project - II. Monitoring of repeating
 FRB 20180916B, 20181030A, 20200120E and 20201124A](https://arxiv.org/pdf/2204.05050.pdf)
 
