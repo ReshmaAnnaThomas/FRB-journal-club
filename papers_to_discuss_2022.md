@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The Moving Mirror model for Fast Radio Bursts](https://arxiv.org/pdf/2204.11663.pdf)
+
+* [The Multiple Images of the Plasma Lensing FRB](https://arxiv.org/pdf/2204.11648.pdf)
+
+* [Transparency of Fast Radio Burst Waves in Magnetar Magnetospheres](https://arxiv.org/pdf/2204.10953.pdf)
+
 * [Propagation of a fast radio burst through a birefringent relativistic plasma](https://arxiv.org/pdf/2204.10816.pdf)
 
 * [Non-detection of CHIME/FRB sources with the Arecibo Observatory](https://arxiv.org/pdf/2204.09090.pdf)
