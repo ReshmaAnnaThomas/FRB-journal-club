@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Deep simultaneous limits on optical emission from FRB 20190520B by 24.4 fps observations with
+Tomo-e Gozen](https://arxiv.org/pdf/2204.12334.pdf)
+
 * [The Moving Mirror model for Fast Radio Bursts](https://arxiv.org/pdf/2204.11663.pdf)
 
 * [The Multiple Images of the Plasma Lensing FRB](https://arxiv.org/pdf/2204.11648.pdf)
