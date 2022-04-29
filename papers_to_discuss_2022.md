@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Formation of periodic FRB in binary systems with
+eccentricity](https://arxiv.org/pdf/2204.13489.pdf)
+
 * [Deep simultaneous limits on optical emission from FRB 20190520B by 24.4 fps observations with
 Tomo-e Gozen](https://arxiv.org/pdf/2204.12334.pdf)
 
