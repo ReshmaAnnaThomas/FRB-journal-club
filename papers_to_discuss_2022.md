@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+
+* [Improvement of cosmological constraints with the cross correlation between
+line-of-sight optical galaxy and FRB dispersion measure](https://arxiv.org/pdf/2205.03867.pdf)
+
+* [Simulating high-time resolution radio-telescope observations](https://arxiv.org/pdf/2205.03046.pdf)
+
 * [Formation of periodic FRB in binary systems with
 eccentricity](https://arxiv.org/pdf/2204.13489.pdf)
 
