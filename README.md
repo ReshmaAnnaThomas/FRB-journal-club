@@ -2,6 +2,24 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 6 May 2022 </h2>
+
+Papers Discussed:
+
+* [Propagation of a fast radio burst through a birefringent relativistic plasma](https://arxiv.org/pdf/2204.10816.pdf)
+
+* [Non-detection of CHIME/FRB sources with the Arecibo Observatory](https://arxiv.org/pdf/2204.09090.pdf)
+
+<h2> 8 April 2022 </h2>
+
+Papers Discussed:
+
+* [FRB 121102: drastic changes in the burst polarization contrasts with the
+stability of the persistent emission](https://arxiv.org/pdf/2202.10519.pdf)
+
+* [A fast radio burst localized to a massive galaxy](https://www.nature.com/articles/s41586-019-1389-7)
+
+
 <h2> 1 April 2022 </h2>
 
 Papers Discussed:
