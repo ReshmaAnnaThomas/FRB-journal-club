@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The first 7 months of the 2020 X-ray outburst of the magnetar
+SGR J1935+2154](https://arxiv.org/pdf/2205.04983.pdf)
 
 * [Improvement of cosmological constraints with the cross correlation between
 line-of-sight optical galaxy and FRB dispersion measure](https://arxiv.org/pdf/2205.03867.pdf)
