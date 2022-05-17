@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A hyper flare of a weeks-old magnetar born from
+a binary-neutron-star merger](https://arxiv.org/pdf/2205.07670.pdf)
+
 * [The first 7 months of the 2020 X-ray outburst of the magnetar
 SGR J1935+2154](https://arxiv.org/pdf/2205.04983.pdf)
 
