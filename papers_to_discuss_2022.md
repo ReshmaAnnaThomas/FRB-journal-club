@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Model-independent constraints on the baryon fraction in the IGM from fast radio bursts and supernovae data](https://arxiv.org/pdf/2205.07926.pdf)
+
+* [A Highly Variable Magnetized Environment in a Pulsar Binary resembling Fast Radio Bursts](https://arxiv.org/pdf/2205.07917.pdf)
+
 * [A hyper flare of a weeks-old magnetar born from
 a binary-neutron-star merger](https://arxiv.org/pdf/2205.07670.pdf)
 
