@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A Radio Continuum Study of NGC 2082](https://arxiv.org/pdf/2205.11144.pdf)
+
 * [A Large Scale Magneto-ionic Fluctuation in the Local Environment of Periodic Fast Radio Burst Source, FRB 20180916B](https://arxiv.org/pdf/2205.09221.pdf)
 
 * [Model-independent constraints on the baryon fraction in the IGM from fast radio bursts and supernovae data](https://arxiv.org/pdf/2205.07926.pdf)
