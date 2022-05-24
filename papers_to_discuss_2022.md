@@ -6,6 +6,8 @@
 
 * [Model-independent constraints on the baryon fraction in the IGM from fast radio bursts and supernovae data](https://arxiv.org/pdf/2205.07926.pdf)
 
+* [Revisit the Periodicity of SGR J1935+2154 Bursts with updated sample](https://arxiv.org/pdf/2205.08003.pdf)
+
 * [A Highly Variable Magnetized Environment in a Pulsar Binary resembling Fast Radio Bursts](https://arxiv.org/pdf/2205.07917.pdf)
 
 * [A hyper flare of a weeks-old magnetar born from
