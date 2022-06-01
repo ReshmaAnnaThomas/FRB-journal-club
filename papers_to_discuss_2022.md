@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Precession and Jitter in FRB 180916B](https://arxiv.org/pdf/2205.15385.pdf)
+
 * [First discoveries and localisations of Fast Radio Bursts with MeerTRAP: a
 real-time, commensal MeerKAT survey](https://arxiv.org/pdf/2205.14600.pdf)
 
