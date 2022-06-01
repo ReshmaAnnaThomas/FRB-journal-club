@@ -1,5 +1,14 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [First discoveries and localisations of Fast Radio Bursts with MeerTRAP: a
+real-time, commensal MeerKAT survey](https://arxiv.org/pdf/2205.14600.pdf)
+
+* [Faraday conversion in pair-symmetric winds of magnetars and Fast Radio Bursts](https://arxiv.org/pdf/2205.13435.pdf)
+
+* [Searching for quasi-periodic oscillations in astrophysical transients using Gaussian processes](https://arxiv.org/pdf/2205.12716.pdf)
+
+* [The Apertif Radio Transient System (ARTS): Design, Commissioning, Data Release, and Detection of the first 5 Fast Radio Bursts](https://arxiv.org/pdf/2205.12362.pdf)
+
 * [A Radio Continuum Study of NGC 2082](https://arxiv.org/pdf/2205.11144.pdf)
 
 * [A Large Scale Magneto-ionic Fluctuation in the Local Environment of Periodic Fast Radio Burst Source, FRB 20180916B](https://arxiv.org/pdf/2205.09221.pdf)
