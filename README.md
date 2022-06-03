@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 3 June 2022 </h2>
+
+Papers Discussed:
+
+* [A Large Scale Magneto-ionic Fluctuation in the Local Environment of Periodic Fast Radio Burst Source, FRB 20180916B](https://arxiv.org/pdf/2205.09221.pdf)
+
+* [A Highly Variable Magnetized Environment in a Pulsar Binary resembling Fast Radio Bursts](https://arxiv.org/pdf/2205.07917.pdf)
+
 <h2> 20 May 2022 </h2>
 
 Papers Discussed:
