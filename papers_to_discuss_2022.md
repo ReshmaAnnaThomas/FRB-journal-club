@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A burst storm from the repeating FRB 20200120E in an M81 globular
+cluster](https://arxiv.org/pdf/2206.03759.pdf)
+
 * [Precession and Jitter in FRB 180916B](https://arxiv.org/pdf/2205.15385.pdf)
 
 * [First discoveries and localisations of Fast Radio Bursts with MeerTRAP: a
