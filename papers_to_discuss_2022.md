@@ -1,5 +1,30 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Bounding the Photon Mass with the Dedispersed Pulses of the Crab Pulsar and FRB 180916B](https://arxiv.org/pdf/2207.00950.pdf)
+
+* [Stellar prospects for FRB gravitational lensing](https://arxiv.org/pdf/2206.14310.pdf)
+
+* [An Injection System for the CHIME/FRB Experiment](https://arxiv.org/pdf/2206.14079.pdf)
+
+* [The Statistical Similarity of Repeating and Non-Repeating Fast
+Radio Bursts](https://arxiv.org/pdf/2206.13871.pdf)
+
+* [Detecting Cosmic Strings with Lensed Fast Radio Bursts](https://arxiv.org/pdf/2206.13534.pdf)
+
+* [A Flat-Spectrum Radio Transient at 122 Mpc consistent with an Emerging Pulsar Wind Nebula](https://arxiv.org/pdf/2206.11911.pdf)
+
+* [On the relation between duration and energy of non-repeating fast radio
+bursts: census with the CHIME data](https://arxiv.org/pdf/2206.11330.pdf)
+
+* [Radio Nebulæ from Hyper-Accreting X-ray Binaries as Common Envelope Precursors and Persistent Counterparts of
+Fast Radio Bursts](https://arxiv.org/pdf/2206.10486.pdf)
+
+* [BURSTT: Bustling Universe Radio Survey Telescope for Taiwan](https://arxiv.org/pdf/2206.08983.pdf)
+
+* [Mitigating radio frequency interference in CHIME/FRB real-time intensity data](https://arxiv.org/pdf/2206.07292.pdf)
+
+* [Constraints on the Helium Abundance from Fast Radio Bursts](https://arxiv.org/pdf/2206.04553.pdf)
+
 * [A burst storm from the repeating FRB 20200120E in an M81 globular
 cluster](https://arxiv.org/pdf/2206.03759.pdf)
 
