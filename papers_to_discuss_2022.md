@@ -33,7 +33,7 @@ Bursts](https://arxiv.org/pdf/2207.05233.pdf)
 
 * [Millisecond Cadence Radio Frequency Interference Filters](https://arxiv.org/pdf/2207.04653.pdf)
 
-* [Single Pulse Dispersion Measure of the Crab Pulsar(https://arxiv.org/pdf/2207.04267.pdf)
+* [Single Pulse Dispersion Measure of the Crab Pulsar](https://arxiv.org/pdf/2207.04267.pdf)
 
 * [Bounding the Photon Mass with the Dedispersed Pulses of the Crab Pulsar and FRB 180916B](https://arxiv.org/pdf/2207.00950.pdf)
 
