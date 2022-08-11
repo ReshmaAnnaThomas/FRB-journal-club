@@ -1,5 +1,40 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [FRBSTATS: A WEB-BASED PLATFORM FOR VISUALIZATION OF
+FAST RADIO BURST PROPERTIES](https://arxiv.org/pdf/2208.03508.pdf)
+
+* [Gravitational lensing in the presence of plasma scintillation with
+application to Fast Radio Bursts](https://arxiv.org/pdf/2208.03332.pdf)
+
+* [A measurement of Hubble’s Constant using Fast Radio Bursts](https://arxiv.org/pdf/2208.00819.pdf)
+
+* [Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB](https://arxiv.org/pdf/2208.00803.pdf)
+
+* [Reconnection-powered fast radio transients from coalescing neutron star binaries](https://arxiv.org/pdf/2207.14435.pdf)
+
+* [Inferring the Energy and Distance Distributions of Fast Radio Bursts using the First CHIME/FRB
+Catalog](https://arxiv.org/pdf/2207.14316.pdf)
+
+* [High frequency study of FRB 20180916B using the 100-m Effelsberg radio
+telescope](https://arxiv.org/pdf/2207.13669.pdf)
+
+* [Strongly Lensed Transient Sources: A Review](https://arxiv.org/pdf/2207.13489.pdf)
+
+* [The Sources of Fast Radio Bursts](https://arxiv.org/pdf/2207.13241.pdf)
+
+* [Antenna characterization for the HIRAX experiment](https://arxiv.org/pdf/2207.12461.pdf)
+
+* [Four New Fast Radio Bursts Discovered in the Parkes 70-cm Pulsar Survey Archive](https://arxiv.org/pdf/2207.12332.pdf)
+
+* [Do Pulsar and Fast Radio Burst dispersion measures obey Benford’s law?](https://arxiv.org/pdf/2207.09696.pdf)
+
+* [Baryonic Post-Processing of N-body Simulations, with Application to Fast Radio
+Bursts](https://arxiv.org/pdf/2207.05233.pdf)
+
+* [Millisecond Cadence Radio Frequency Interference Filters](https://arxiv.org/pdf/2207.04653.pdf)
+
+* [Single Pulse Dispersion Measure of the Crab Pulsar(https://arxiv.org/pdf/2207.04267.pdf)
+
 * [Bounding the Photon Mass with the Dedispersed Pulses of the Crab Pulsar and FRB 180916B](https://arxiv.org/pdf/2207.00950.pdf)
 
 * [Stellar prospects for FRB gravitational lensing](https://arxiv.org/pdf/2206.14310.pdf)
