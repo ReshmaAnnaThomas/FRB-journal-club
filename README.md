@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 29 July 2022 </h2>
+
+Papers Discussed:
+
+* [High frequency study of FRB 20180916B using the 100-m Effelsberg radio telescope](https://arxiv.org/pdf/2207.13669.pdf)
+
+* [Four New Fast Radio Bursts Discovered in the Parkes 70-cm Pulsar Survey Archive](https://arxiv.org/pdf/2207.12332.pdf)
+
 <h2> 3 June 2022 </h2>
 
 Papers Discussed:
