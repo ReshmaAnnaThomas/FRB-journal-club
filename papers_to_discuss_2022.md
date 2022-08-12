@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing](https://arxiv.org/pdf/2208.05957.pdf)
+
 * [FRBSTATS: A WEB-BASED PLATFORM FOR VISUALIZATION OF
 FAST RADIO BURST PROPERTIES](https://arxiv.org/pdf/2208.03508.pdf)
 
