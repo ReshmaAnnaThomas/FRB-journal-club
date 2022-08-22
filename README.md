@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 12 August 2022 </h2>
+
+Papers Discussed:
+
+* [Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB](https://arxiv.org/pdf/2208.00803.pdf)
+
+* [Do Pulsar and Fast Radio Burst dispersion measures obey Benford’s law?](https://arxiv.org/pdf/2207.09696.pdf)
+
+* [Millisecond Cadence Radio Frequency Interference Filters](https://arxiv.org/pdf/2207.04653.pdf)
+
+* [BURSTT: Bustling Universe Radio Survey Telescope for Taiwan](https://arxiv.org/pdf/2206.08983.pdf)
+
+
 <h2> 29 July 2022 </h2>
 
 Papers Discussed:
