@@ -3,7 +3,8 @@
 <h2>25 August 2022</h2>
 
 1. Reshma Anna Thomas
-2. 
+2. Graham Doskoch - [A method for reconstructing the Galactic magnetic field using
+dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://arxiv.org/pdf/2208.06417.pdf)
 
 <h2>1 September 2022</h2>
 
