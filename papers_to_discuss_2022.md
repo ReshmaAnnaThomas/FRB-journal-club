@@ -1,5 +1,21 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Repeating Ultraluminous X-ray Bursts and Repeating Fast Radio Bursts: A Possible Association?](https://arxiv.org/pdf/2208.08972.pdf)
+
+* [Repeating Fast Radio Bursts from Neutron Star Binaries:
+Multi-band and Multi-messenger Opportunities](https://arxiv.org/pdf/2208.08808.pdf)
+
+* [Faraday Rotation Measure Variations of Repeating Fast Radio Burst
+Sources](https://arxiv.org/pdf/2208.08712.pdf)
+
+* [The technological and scientific development of ASKAP ](https://arxiv.org/pdf/2208.08245.pdf)
+
+* [The effects of plasma on the magnification and time delay of
+strongly lensed fast radio bursts](https://arxiv.org/pdf/2208.08208.pdf)
+
+* [A method for reconstructing the Galactic magnetic field using
+dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://arxiv.org/pdf/2208.06417.pdf)
+
 * [Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing](https://arxiv.org/pdf/2208.05957.pdf)
 
 * [FRBSTATS: A WEB-BASED PLATFORM FOR VISUALIZATION OF
