@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Prospects of strongly lensed fast radio bursts: Simultaneous measurement
+of post-Newtonian parameter and Hubble constant](https://arxiv.org/pdf/2208.10175.pdf)
+
 * [Repeating Ultraluminous X-ray Bursts and Repeating Fast Radio Bursts: A Possible Association?](https://arxiv.org/pdf/2208.08972.pdf)
 
 * [Repeating Fast Radio Bursts from Neutron Star Binaries:
