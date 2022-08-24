@@ -2,7 +2,8 @@
 
 <h2>25 August 2022</h2>
 
-1. Reshma Anna Thomas
+1. Reshma Anna Thomas - [A burst storm from the repeating FRB 20200120E in an M81 globular
+cluster](https://arxiv.org/pdf/2206.03759.pdf)
 2. Graham Doskoch - [A method for reconstructing the Galactic magnetic field using
 dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://arxiv.org/pdf/2208.06417.pdf)
 
