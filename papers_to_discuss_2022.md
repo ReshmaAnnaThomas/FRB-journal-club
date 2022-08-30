@@ -1,5 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [DM-power: an algorithm for high precision dispersion measure with
+application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
+
 * [Prospects of strongly lensed fast radio bursts: Simultaneous measurement
 of post-Newtonian parameter and Hubble constant](https://arxiv.org/pdf/2208.10175.pdf)
 
