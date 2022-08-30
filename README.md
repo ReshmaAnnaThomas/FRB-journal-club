@@ -2,6 +2,16 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 25 August 2022 </h2>
+
+Papers Discussed:
+
+* [A method for reconstructing the Galactic magnetic field using
+dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://arxiv.org/pdf/2208.06417.pdf) by Graham Doskoch
+
+* [A burst storm from the repeating FRB 20200120E in an M81 globular
+cluster](https://arxiv.org/pdf/2206.03759.pdf) by Reshma Anna Thomas 
+
 <h2> 12 August 2022 </h2>
 
 Papers Discussed:
@@ -13,7 +23,6 @@ Papers Discussed:
 * [Millisecond Cadence Radio Frequency Interference Filters](https://arxiv.org/pdf/2207.04653.pdf)
 
 * [BURSTT: Bustling Universe Radio Survey Telescope for Taiwan](https://arxiv.org/pdf/2206.08983.pdf)
-
 
 <h2> 29 July 2022 </h2>
 
