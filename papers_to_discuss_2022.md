@@ -1,5 +1,12 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Plasma lensing near the eclipses of the Black Widow pulsar B1957+20](https://arxiv.org/pdf/2208.13868.pdf)
+
+* [Expanding Fireball in Magnetar Bursts and Fast Radio Bursts](https://arxiv.org/pdf/2208.14320.pdf)
+
+* [Hints of a universal width-energy relation for classified fast radio
+bursts](https://arxiv.org/pdf/2208.13972.pdf)
+
 * [DM-power: an algorithm for high precision dispersion measure with
 application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
 
