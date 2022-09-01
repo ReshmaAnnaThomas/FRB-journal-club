@@ -2,6 +2,16 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>  1 September 2022 </h2>
+
+Papers Discussed:
+
+* [Hints of a universal width-energy relation for classified fast radio
+bursts](https://arxiv.org/pdf/2208.13972.pdf) by Sarah Burke-Spolaor
+
+* [DM-power: an algorithm for high precision dispersion measure with
+application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
+
 <h2> 25 August 2022 </h2>
 
 Papers Discussed:
