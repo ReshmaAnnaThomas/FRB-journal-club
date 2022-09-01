@@ -10,7 +10,7 @@ Papers Discussed:
 bursts](https://arxiv.org/pdf/2208.13972.pdf) by Sarah Burke-Spolaor
 
 * [DM-power: an algorithm for high precision dispersion measure with
-application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
+application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf) by Reshma Anna Thomas
 
 <h2> 25 August 2022 </h2>
 
