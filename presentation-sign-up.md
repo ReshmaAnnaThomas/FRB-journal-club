@@ -9,8 +9,9 @@ dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://
 
 <h2>1 September 2022</h2>
 
-1.
-2.
+1. Reshma Anna Thomas - [DM-power: an algorithm for high precision dispersion measure with
+application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
+2. Sarah Burke-Spolaor 
 
 <h2>8 September 2022</h2>
 
