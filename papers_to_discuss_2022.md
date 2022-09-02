@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The ultra narrow FRB20191107B, and the origins of FRB scattering](https://arxiv.org/pdf/2209.00311.pdf)
+
 * [Plasma lensing near the eclipses of the Black Widow pulsar B1957+20](https://arxiv.org/pdf/2208.13868.pdf)
 
 * [Expanding Fireball in Magnetar Bursts and Fast Radio Bursts](https://arxiv.org/pdf/2208.14320.pdf)
