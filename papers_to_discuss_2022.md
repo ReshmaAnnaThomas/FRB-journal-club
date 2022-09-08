@@ -1,5 +1,12 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [SPARKESX: Single-dish PARKES data sets for finding the uneXpected
+— A data challenge](https://arxiv.org/pdf/2209.03080.pdf)
+
+* [The SPAN512 mid-latitude pulsar survey at the Nançay Radio Telescope](https://arxiv.org/pdf/2209.01806.pdf)
+
+* [Symmetry Breaking in Repeating Fast Radio Bursts](https://arxiv.org/pdf/2209.01700.pdf)
+
 * [The ultra narrow FRB20191107B, and the origins of FRB scattering](https://arxiv.org/pdf/2209.00311.pdf)
 
 * [Plasma lensing near the eclipses of the Black Widow pulsar B1957+20](https://arxiv.org/pdf/2208.13868.pdf)
