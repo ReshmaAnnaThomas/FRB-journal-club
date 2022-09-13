@@ -13,14 +13,10 @@ dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://
 application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
 2. Sarah Burke-Spolaor 
 
-<h2>8 September 2022</h2>
-
-1.
-2.
 
 <h2>15 September 2022</h2>
 
-1.
+1. Emmanuel Fonseca - [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://arxiv.org/pdf/2209.05242.pdf)
 2.
 
 <h2>22 September 2022</h2>
