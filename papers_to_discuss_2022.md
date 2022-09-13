@@ -1,5 +1,13 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://arxiv.org/pdf/2209.05242.pdf)
+
+* [Repeating Fast Radio Bursts with High Burst Rates by Plate Collisions in
+Neutron Star Crusts](https://arxiv.org/pdf/2209.04774.pdf)
+
+* [A measurement of circumgalactic gas around nearby galaxies using fast
+radio bursts](https://arxiv.org/pdf/2209.04455.pdf)
+
 * [SPARKESX: Single-dish PARKES data sets for finding the uneXpected
 — A data challenge](https://arxiv.org/pdf/2209.03080.pdf)
 
