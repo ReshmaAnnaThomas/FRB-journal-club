@@ -2,6 +2,12 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>  15 September 2022 </h2>
+
+Papers Discussed:
+
+* [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://arxiv.org/pdf/2209.05242.pdf) by Emmanuel Fonseca
+
 <h2>  1 September 2022 </h2>
 
 Papers Discussed:
