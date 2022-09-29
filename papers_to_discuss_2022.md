@@ -1,5 +1,12 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [One-off and Repeating Fast Radio Bursts: A Statistical Analysis](https://arxiv.org/pdf/2209.13943.pdf)
+
+* [Direct Emission of Strong Radio Pulses during
+Magnetar Flares](https://arxiv.org/pdf/2209.11136.pdf)
+
+* [The game of life on a magnetar crust: from γ-ray flares to FRBs](https://arxiv.org/pdf/2209.08598.pdf)
+
 * [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://arxiv.org/pdf/2209.05242.pdf)
 
 * [Repeating Fast Radio Bursts with High Burst Rates by Plate Collisions in
