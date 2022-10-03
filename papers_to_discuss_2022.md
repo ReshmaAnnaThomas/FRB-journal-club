@@ -1,6 +1,12 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+
+
+* [Fast Radio Bursts as Probes of Magnetic Fields in Galaxies at z < 0.5](https://arxiv.org/pdf/2209.15113.pdf)
+
 * [One-off and Repeating Fast Radio Bursts: A Statistical Analysis](https://arxiv.org/pdf/2209.13943.pdf)
+
+* [Modelling the energy distribution in CHIME/FRB Catalog-1](https://arxiv.org/pdf/2209.12961.pdf)
 
 * [Direct Emission of Strong Radio Pulses during
 Magnetar Flares](https://arxiv.org/pdf/2209.11136.pdf)
