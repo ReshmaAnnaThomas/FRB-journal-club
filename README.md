@@ -8,7 +8,7 @@ Papers Discussed:
 
 * [The ultra narrow FRB20191107B, and the origins of FRB scattering](https://arxiv.org/pdf/2209.00311.pdf) by Reshma Anna Thomas
 
-* * [A measurement of circumgalactic gas around nearby galaxies using fast radio bursts](https://arxiv.org/pdf/2209.04455.pdf) by Reshma Anna Thomas
+* [A measurement of circumgalactic gas around nearby galaxies using fast radio bursts](https://arxiv.org/pdf/2209.04455.pdf) by Reshma Anna Thomas
 
 <h2>  15 September 2022 </h2>
 
