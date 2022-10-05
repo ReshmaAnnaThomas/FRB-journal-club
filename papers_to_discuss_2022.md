@@ -1,6 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
 
+* [A broad survey of spectro-temporal properties from FRB20121102A](https://arxiv.org/pdf/2210.00106.pdf)
 
 * [Fast Radio Bursts as Probes of Magnetic Fields in Galaxies at z < 0.5](https://arxiv.org/pdf/2209.15113.pdf)
 
