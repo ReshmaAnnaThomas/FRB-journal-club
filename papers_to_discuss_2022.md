@@ -1,5 +1,26 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Polarisation of magnetospheric curvature radiation in repeating fast radio bursts](https://arxiv.org/pdf/2210.04401.pdf)
+
+* [FAST observations of an extremely active episode of FRB 20201124A: IV. Spin Period Search](https://arxiv.org/pdf/2210.03610.pdf)
+
+* [FAST observations of an extremely active episode of FRB 20201124A: III. Polarimetry](https://arxiv.org/pdf/2210.03609.pdf)
+
+* [FAST observations of an extremely active episode of FRB 20201124A: II. Energy Distribution](https://arxiv.org/pdf/2210.03645.pdf)
+
+* [FAST observations of an extremely active episode of FRB 20201124A: I. Burst morphology](https://arxiv.org/pdf/2210.03607.pdf)
+
+* [A Fast Transient Backend to Detect FRBs with the Tianlai Dish Pathfinder Array](https://arxiv.org/pdf/2210.03272.pdf)
+
+* [Machine Learning Classification of Fast Radio Bursts: II. Unsupervised Methods](https://arxiv.org/pdf/2210.02471.pdf)
+
+* [Machine learning classification of fast radio bursts: I. supervised methods](https://arxiv.org/pdf/2210.02463.pdf)
+
+* [Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by the updated Macquart relation](https://arxiv.org/pdf/2210.02290.pdf)
+
+* [Scattering variability detected from the circumsource medium of FRB 20190520B](https://arxiv.org/pdf/2210.01975.pdf)
+
+* [FRB–SRB–XRB: Geometric and Relativistic Beaming Constraints of Fast Radio Bursts from the Galactic Magnetar SGR J1935+2154](https://arxiv.org/pdf/2210.01904.pdf)
 
 * [A broad survey of spectro-temporal properties from FRB20121102A](https://arxiv.org/pdf/2210.00106.pdf)
 
@@ -9,21 +30,17 @@
 
 * [Modelling the energy distribution in CHIME/FRB Catalog-1](https://arxiv.org/pdf/2209.12961.pdf)
 
-* [Direct Emission of Strong Radio Pulses during
-Magnetar Flares](https://arxiv.org/pdf/2209.11136.pdf)
+* [Direct Emission of Strong Radio Pulses during Magnetar Flares](https://arxiv.org/pdf/2209.11136.pdf)
 
 * [The game of life on a magnetar crust: from γ-ray flares to FRBs](https://arxiv.org/pdf/2209.08598.pdf)
 
 * [Rotation Measure Variations and Reversals of Repeating FRBs in Massive Binary Systems](https://arxiv.org/pdf/2209.05242.pdf)
 
-* [Repeating Fast Radio Bursts with High Burst Rates by Plate Collisions in
-Neutron Star Crusts](https://arxiv.org/pdf/2209.04774.pdf)
+* [Repeating Fast Radio Bursts with High Burst Rates by Plate Collisions in Neutron Star Crusts](https://arxiv.org/pdf/2209.04774.pdf)
 
-* [A measurement of circumgalactic gas around nearby galaxies using fast
-radio bursts](https://arxiv.org/pdf/2209.04455.pdf)
+* [A measurement of circumgalactic gas around nearby galaxies using fast radio bursts](https://arxiv.org/pdf/2209.04455.pdf)
 
-* [SPARKESX: Single-dish PARKES data sets for finding the uneXpected
-— A data challenge](https://arxiv.org/pdf/2209.03080.pdf)
+* [SPARKESX: Single-dish PARKES data sets for finding the uneXpected— A data challenge](https://arxiv.org/pdf/2209.03080.pdf)
 
 * [The SPAN512 mid-latitude pulsar survey at the Nançay Radio Telescope](https://arxiv.org/pdf/2209.01806.pdf)
 
@@ -35,38 +52,29 @@ radio bursts](https://arxiv.org/pdf/2209.04455.pdf)
 
 * [Expanding Fireball in Magnetar Bursts and Fast Radio Bursts](https://arxiv.org/pdf/2208.14320.pdf)
 
-* [Hints of a universal width-energy relation for classified fast radio
-bursts](https://arxiv.org/pdf/2208.13972.pdf)
+* [Hints of a universal width-energy relation for classified fast radio bursts](https://arxiv.org/pdf/2208.13972.pdf)
 
-* [DM-power: an algorithm for high precision dispersion measure with
-application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
+* [DM-power: an algorithm for high precision dispersion measure with application to fast radio bursts](https://arxiv.org/pdf/2208.13677.pdf)
 
-* [Prospects of strongly lensed fast radio bursts: Simultaneous measurement
-of post-Newtonian parameter and Hubble constant](https://arxiv.org/pdf/2208.10175.pdf)
+* [Prospects of strongly lensed fast radio bursts: Simultaneous measurement of post-Newtonian parameter and Hubble constant](https://arxiv.org/pdf/2208.10175.pdf)
 
 * [Repeating Ultraluminous X-ray Bursts and Repeating Fast Radio Bursts: A Possible Association?](https://arxiv.org/pdf/2208.08972.pdf)
 
-* [Repeating Fast Radio Bursts from Neutron Star Binaries:
-Multi-band and Multi-messenger Opportunities](https://arxiv.org/pdf/2208.08808.pdf)
+* [Repeating Fast Radio Bursts from Neutron Star Binaries: Multi-band and Multi-messenger Opportunities](https://arxiv.org/pdf/2208.08808.pdf)
 
-* [Faraday Rotation Measure Variations of Repeating Fast Radio Burst
-Sources](https://arxiv.org/pdf/2208.08712.pdf)
+* [Faraday Rotation Measure Variations of Repeating Fast Radio Burst Sources](https://arxiv.org/pdf/2208.08712.pdf)
 
 * [The technological and scientific development of ASKAP ](https://arxiv.org/pdf/2208.08245.pdf)
 
-* [The effects of plasma on the magnification and time delay of
-strongly lensed fast radio bursts](https://arxiv.org/pdf/2208.08208.pdf)
+* [The effects of plasma on the magnification and time delay of strongly lensed fast radio bursts](https://arxiv.org/pdf/2208.08208.pdf)
 
-* [A method for reconstructing the Galactic magnetic field using
-dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://arxiv.org/pdf/2208.06417.pdf)
+* [A method for reconstructing the Galactic magnetic field using dispersion of fast radio bursts and Faraday rotation of radio galaxies](https://arxiv.org/pdf/2208.06417.pdf)
 
 * [Revealing Dark Matter Dress of Primordial Black Holes by Cosmological Lensing](https://arxiv.org/pdf/2208.05957.pdf)
 
-* [FRBSTATS: A WEB-BASED PLATFORM FOR VISUALIZATION OF
-FAST RADIO BURST PROPERTIES](https://arxiv.org/pdf/2208.03508.pdf)
+* [FRBSTATS: A WEB-BASED PLATFORM FOR VISUALIZATION OF FAST RADIO BURST PROPERTIES](https://arxiv.org/pdf/2208.03508.pdf)
 
-* [Gravitational lensing in the presence of plasma scintillation with
-application to Fast Radio Bursts](https://arxiv.org/pdf/2208.03332.pdf)
+* [Gravitational lensing in the presence of plasma scintillation with application to Fast Radio Bursts](https://arxiv.org/pdf/2208.03332.pdf)
 
 * [A measurement of Hubble’s Constant using Fast Radio Bursts](https://arxiv.org/pdf/2208.00819.pdf)
 
@@ -74,11 +82,9 @@ application to Fast Radio Bursts](https://arxiv.org/pdf/2208.03332.pdf)
 
 * [Reconnection-powered fast radio transients from coalescing neutron star binaries](https://arxiv.org/pdf/2207.14435.pdf)
 
-* [Inferring the Energy and Distance Distributions of Fast Radio Bursts using the First CHIME/FRB
-Catalog](https://arxiv.org/pdf/2207.14316.pdf)
+* [Inferring the Energy and Distance Distributions of Fast Radio Bursts using the First CHIME/FRB Catalog](https://arxiv.org/pdf/2207.14316.pdf)
 
-* [High frequency study of FRB 20180916B using the 100-m Effelsberg radio
-telescope](https://arxiv.org/pdf/2207.13669.pdf)
+* [High frequency study of FRB 20180916B using the 100-m Effelsberg radio telescope](https://arxiv.org/pdf/2207.13669.pdf)
 
 * [Strongly Lensed Transient Sources: A Review](https://arxiv.org/pdf/2207.13489.pdf)
 
@@ -90,8 +96,7 @@ telescope](https://arxiv.org/pdf/2207.13669.pdf)
 
 * [Do Pulsar and Fast Radio Burst dispersion measures obey Benford’s law?](https://arxiv.org/pdf/2207.09696.pdf)
 
-* [Baryonic Post-Processing of N-body Simulations, with Application to Fast Radio
-Bursts](https://arxiv.org/pdf/2207.05233.pdf)
+* [Baryonic Post-Processing of N-body Simulations, with Application to Fast Radio Bursts](https://arxiv.org/pdf/2207.05233.pdf)
 
 * [Millisecond Cadence Radio Frequency Interference Filters](https://arxiv.org/pdf/2207.04653.pdf)
 
@@ -103,18 +108,15 @@ Bursts](https://arxiv.org/pdf/2207.05233.pdf)
 
 * [An Injection System for the CHIME/FRB Experiment](https://arxiv.org/pdf/2206.14079.pdf)
 
-* [The Statistical Similarity of Repeating and Non-Repeating Fast
-Radio Bursts](https://arxiv.org/pdf/2206.13871.pdf)
+* [The Statistical Similarity of Repeating and Non-Repeating Fast Radio Bursts](https://arxiv.org/pdf/2206.13871.pdf)
 
 * [Detecting Cosmic Strings with Lensed Fast Radio Bursts](https://arxiv.org/pdf/2206.13534.pdf)
 
 * [A Flat-Spectrum Radio Transient at 122 Mpc consistent with an Emerging Pulsar Wind Nebula](https://arxiv.org/pdf/2206.11911.pdf)
 
-* [On the relation between duration and energy of non-repeating fast radio
-bursts: census with the CHIME data](https://arxiv.org/pdf/2206.11330.pdf)
+* [On the relation between duration and energy of non-repeating fast radio bursts: census with the CHIME data](https://arxiv.org/pdf/2206.11330.pdf)
 
-* [Radio Nebulæ from Hyper-Accreting X-ray Binaries as Common Envelope Precursors and Persistent Counterparts of
-Fast Radio Bursts](https://arxiv.org/pdf/2206.10486.pdf)
+* [Radio Nebulæ from Hyper-Accreting X-ray Binaries as Common Envelope Precursors and Persistent Counterparts of Fast Radio Bursts](https://arxiv.org/pdf/2206.10486.pdf)
 
 * [BURSTT: Bustling Universe Radio Survey Telescope for Taiwan](https://arxiv.org/pdf/2206.08983.pdf)
 
@@ -122,8 +124,7 @@ Fast Radio Bursts](https://arxiv.org/pdf/2206.10486.pdf)
 
 * [Constraints on the Helium Abundance from Fast Radio Bursts](https://arxiv.org/pdf/2206.04553.pdf)
 
-* [A burst storm from the repeating FRB 20200120E in an M81 globular
-cluster](https://arxiv.org/pdf/2206.03759.pdf)
+* [A burst storm from the repeating FRB 20200120E in an M81 globular cluster](https://arxiv.org/pdf/2206.03759.pdf)
 
 * [Precession and Jitter in FRB 180916B](https://arxiv.org/pdf/2205.15385.pdf)
 
