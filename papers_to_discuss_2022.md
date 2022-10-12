@@ -1,5 +1,13 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Cosmological-model-independent determination of Hubble constant from fast radio bursts and Hubble parameter measurements](https://arxiv.org/pdf/2210.05202.pdf)
+
+* [Sciences with Thai National Radio Telescope](https://arxiv.org/pdf/2210.04926.pdf)
+
+* [Prospects for Detecting Fast Radio Bursts in Globular Clusters of Nearby Galaxies](https://arxiv.org/pdf/2210.04907.pdf)
+
+* [Probing the distant universe with a very luminous fast radio burst at redshift 1](https://arxiv.org/pdf/2210.04680.pdf)
+
 * [Polarisation of magnetospheric curvature radiation in repeating fast radio bursts](https://arxiv.org/pdf/2210.04401.pdf)
 
 * [FAST observations of an extremely active episode of FRB 20201124A: IV. Spin Period Search](https://arxiv.org/pdf/2210.03610.pdf)
