@@ -1,5 +1,36 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Pulsar revival in neutron star mergers: multi-messenger prospects
+for the discovery of pre-merger coherent radio emission](https://arxiv.org/pdf/2210.17205.pdf)
+
+* [FRB emission mechanisms vs. observations](https://arxiv.org/pdf/2210.14268.pdf)
+
+* [The dispersion measure of Fast Radio Bursts host galaxies: estimation
+from cosmological simulations](https://arxiv.org/pdf/2210.14052.pdf)
+
+* [Monster radiative shocks in the perturbed magnetospheres of neutron stars](https://arxiv.org/pdf/2210.13509.pdf)
+
+* [Magnetar spin-down glitch clearing the way for FRB-like bursts
+and a pulsed radio episode](https://arxiv.org/pdf/2210.11518.pdf)
+
+* [Detection Rate of Fast Radio Bursts in the Milky Way with BURSTT](https://arxiv.org/pdf/2210.11077.pdf)
+
+* [An Intermediate-field Fast Radio Burst Model and the Quasi-periodic Oscillation](https://arxiv.org/pdf/2210.09930.pdf)
+
+* [The Effect of Gravitational Lensing on Fast Transient Event Rates](https://arxiv.org/pdf/2210.09487.pdf)
+
+* [Evidence for an abundant old population of Galactic ultra long period magnetars and implications for fast radio bursts](https://arxiv.org/pdf/2210.09323.pdf)
+
+* [Saturation of the filamentation instability and dispersion measure of Fast Radio Bursts](https://arxiv.org/pdf/2210.08754.pdf)
+
+* [Probing the interaction between darkenergy and dark matter with future fast radio burst observation](https://arxiv.org/pdf/2210.07162.pdf)
+
+* [Solar System-scale interferometry on fast radio bursts could measure cosmic distances
+with sub-percent precision](https://arxiv.org/pdf/2210.07159.pdf)
+
+* [Testing afterglow models of FRB 200428 with early post-burst
+observations of SGR 1935+2154](https://arxiv.org/pdf/2210.06547.pdf)
+
 * [Cosmological-model-independent determination of Hubble constant from fast radio bursts and Hubble parameter measurements](https://arxiv.org/pdf/2210.05202.pdf)
 
 * [Sciences with Thai National Radio Telescope](https://arxiv.org/pdf/2210.04926.pdf)
