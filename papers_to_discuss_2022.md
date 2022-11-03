@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The Luminosity Phase Space of Galactic and Extragalactic X-ray Transients Out to Intermediate Redshifts](https://arxiv.org/pdf/2211.01232.pdf)
+
+* [Continuous gravitational wave detection to understand the generation mechanism of fast radio bursts](https://arxiv.org/pdf/2211.00940.pdf)
+
 * [Pulsar revival in neutron star mergers: multi-messenger prospects
 for the discovery of pre-merger coherent radio emission](https://arxiv.org/pdf/2210.17205.pdf)
 
