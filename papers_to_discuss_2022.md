@@ -1,5 +1,17 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Finding the missing baryons in the intergalactic medium with localized fast radio bursts](https://arxiv.org/pdf/2211.04058.pdf)
+
+* [Limits on Simultaneous and Delayed Optical Emission from Well-Localized Fast Radio Bursts](https://arxiv.org/pdf/2211.03974.pdf)
+
+* [A giant glitch from the magnetar SGR J1935+2154 before FRB 200428](https://arxiv.org/pdf/2211.03246.pdf)
+
+* [Diverse Properties of Molecular Gas in the Host Galaxies of Fast Radio Bursts](https://arxiv.org/pdf/2211.02279.pdf)
+
+* [A 7.0% Determination of the Baryon Fraction in the Intergalactic Medium from Localized Fast Radio Bursts](https://arxiv.org/pdf/2211.02209.pdf)
+
+* [A note on the anti-glitch of magnetar SGR 1935+2154](https://arxiv.org/pdf/2211.01540.pdf)
+
 * [The Luminosity Phase Space of Galactic and Extragalactic X-ray Transients Out to Intermediate Redshifts](https://arxiv.org/pdf/2211.01232.pdf)
 
 * [Continuous gravitational wave detection to understand the generation mechanism of fast radio bursts](https://arxiv.org/pdf/2211.00940.pdf)
