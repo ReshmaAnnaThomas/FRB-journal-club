@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>  3 November 2022 </h2>
+
+Papers Discussed:
+
+* [FAST observations of an extremely active episode of FRB 20201124A: IV. Spin Period Search](https://arxiv.org/pdf/2210.03610.pdf) by Reshma Anna Thomas
+
+* Broad discussion on the Galactic FRB and the FRB 2O220912A by Emmanuel Fonseca and Sarah Burke-Spolaor.
+
 <h2>  29 September 2022 </h2>
 
 Papers Discussed:
