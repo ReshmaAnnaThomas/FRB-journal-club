@@ -6,11 +6,11 @@ Public repository for FRB Journal Club at Department of Physics and Astronomy at
 
 Papers Discussed:
 
-* [FAST observations of an extremely active episode of FRB 20201124A: I. Burst morphology](https://arxiv.org/pdf/2210.03607.pdf)
+* [FAST observations of an extremely active episode of FRB 20201124A: I. Burst morphology](https://arxiv.org/pdf/2210.03607.pdf) by Reshma Anna Thomas
 
-* [FAST observations of an extremely active episode of FRB 20201124A: II. Energy Distribution](https://arxiv.org/pdf/2210.03645.pdf)
+* [FAST observations of an extremely active episode of FRB 20201124A: II. Energy Distribution](https://arxiv.org/pdf/2210.03645.pdf) by Reshma Anna Thomas
 
-* [FAST observations of an extremely active episode of FRB 20201124A: III. Polarimetry](https://arxiv.org/pdf/2210.03609.pdf)
+* [FAST observations of an extremely active episode of FRB 20201124A: III. Polarimetry](https://arxiv.org/pdf/2210.03609.pdf) by Reshma Anna Thomas
 
 <h2>  3 November 2022 </h2>
 
