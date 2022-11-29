@@ -1,5 +1,28 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Image plane detection of FRB121102 with the MeerKAT radio telescope](https://arxiv.org/pdf/2211.12257.pdf)
+
+* [Daksha: On Alert for High Energy Transients](https://arxiv.org/pdf/2211.12055.pdf)
+
+* [Science with the Daksha High Energy Transients Mission](https://arxiv.org/pdf/2211.12052.pdf)
+
+* [Repeating fast radio bursts produced by a strange star interacting with its
+planet in an eccentric orbit](https://arxiv.org/pdf/2211.12026.pdf)
+
+* [A targeted search for repeating fast radio bursts with the MWA](https://arxiv.org/pdf/2211.11945.pdf)
+
+* [Deep Synoptic Array science I: discovery of the host galaxy of FRB 20220912A](https://arxiv.org/pdf/2211.09049.pdf)
+
+* [On torque reversal during delayed spin up glitch of SGR
+1935+2154](https://arxiv.org/pdf/2211.08151.pdf)
+
+* [Radio Transients and Variables in the Tenth Deeper, Wider, Faster
+Observing Run](https://arxiv.org/pdf/2211.07049.pdf)
+
+* [The discovery and scientific potential of fast radio bursts](https://arxiv.org/pdf/2211.06048.pdf)
+
+* [Resolving the Emission Regions of the Crab Pulsar’s Giant Pulses II. Evidence for Relativistic Motion.](https://arxiv.org/pdf/2211.05209.pdf)
+
 * [Finding the missing baryons in the intergalactic medium with localized fast radio bursts](https://arxiv.org/pdf/2211.04058.pdf)
 
 * [Limits on Simultaneous and Delayed Optical Emission from Well-Localized Fast Radio Bursts](https://arxiv.org/pdf/2211.03974.pdf)
