@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A non-repeating fast radio burst in a dwarf host galaxy](https://arxiv.org/pdf/2211.16790.pdf)
+
 * [Image plane detection of FRB121102 with the MeerKAT radio telescope](https://arxiv.org/pdf/2211.12257.pdf)
 
 * [Daksha: On Alert for High Energy Transients](https://arxiv.org/pdf/2211.12055.pdf)
