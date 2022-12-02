@@ -6,7 +6,7 @@ Public repository for FRB Journal Club at Department of Physics and Astronomy at
 
 Papers Discussed:
 
-* [The discovery and scientific potential of fast radio bursts](https://arxiv.org/pdf/2211.06048.pdf)
+* [The discovery and scientific potential of fast radio bursts](https://arxiv.org/pdf/2211.06048.pdf) by Reshma Anna Thomas
 
 <h2>  10 November 2022 </h2>
 
