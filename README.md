@@ -2,6 +2,12 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>  1 December 2022 </h2>
+
+Papers Discussed:
+
+* [The discovery and scientific potential of fast radio bursts](https://arxiv.org/pdf/2211.06048.pdf)
+
 <h2>  10 November 2022 </h2>
 
 Papers Discussed:
