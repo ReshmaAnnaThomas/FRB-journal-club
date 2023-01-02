@@ -1,5 +1,41 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [First statistical measurement of the Hubble constant using unlocalized fast radio
+bursts](https://arxiv.org/pdf/2212.13433.pdf)
+
+* [The Statistical Polarization Properties of Coherent Curvature Radiation by Bunches: Application to
+Fast Radio Burst Repeaters](https://arxiv.org/pdf/2212.13153.pdf)
+
+* [Distribution of fast radio burst dispersion measures in CHIME/FRB Catalog 1:
+implications on the origin of FRBs](https://arxiv.org/pdf/2212.13148.pdf)
+
+* [Sub-arcminute localization of 13 repeating fast radio bursts detected by CHIME/FRB](https://arxiv.org/pdf/2212.11941.pdf)
+
+* [High-Energy Neutrinos from Gamma-Ray-Faint Accretion-Powered Hypernebulae](https://arxiv.org/pdf/2212.11236.pdf)
+
+* [A Search for Coincident Neutrino Emission from Fast Radio Bursts with Seven Years of IceCube
+Cascade Events](https://arxiv.org/pdf/2212.06702.pdf)
+
+* [Circular Polarization in two Active Repeating Fast Radio Bursts](https://arxiv.org/pdf/2212.05873.pdf)
+
+* [A Comprehensive Analysis on Repeating Fast Radio Bursts](https://arxiv.org/pdf/2212.05242.pdf)
+
+* [Power-law distribution and scale-invariant structure from the first
+CHIME/FRB Fast Radio Burst catalog](https://arxiv.org/pdf/2212.05229.pdf)
+
+* [Modelling Annual Scintillation Velocity Variations of FRB 20201124A](https://arxiv.org/pdf/2212.04839.pdf)
+
+* [The molecular gas kinematics in the host galaxy of non-repeating
+FRB 180924B](https://arxiv.org/pdf/2212.04027.pdf)
+
+* [THE PHYSICS OF FAST RADIO BURSTS](https://arxiv.org/pdf/2212.03972.pdf)
+
+* [The most probable host of CHIME FRB 190425A, associated with binary
+neutron star merger GW190425, and a late-time transient search](https://arxiv.org/pdf/2212.00954.pdf)
+
+* [An assessment of the Association Between a Fast Radio
+Burst and Binary Neutron Star Merger](https://arxiv.org/pdf/2212.00201.pdf)
+
 * [A non-repeating fast radio burst in a dwarf host galaxy](https://arxiv.org/pdf/2211.16790.pdf)
 
 * [Image plane detection of FRB121102 with the MeerKAT radio telescope](https://arxiv.org/pdf/2211.12257.pdf)
