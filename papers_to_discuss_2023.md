@@ -8,7 +8,7 @@
 * [An extreme active repeating fast radio burst in a clean environment](https://arxiv.org/pdf/2304.14671.pdf)
 * [FAST Observations of FRB 20220912A: Burst Properties and Polarization Characteristics](https://arxiv.org/pdf/2304.14665.pdf)
 * [Classifying FRB spectrograms using nonlinear dimensionality reduction techniques](https://arxiv.org/pdf/2304.13912.pdf)
-*  [The Northern Cross Fast Radio Burst project - III. The FRB-magnetar connection in a sample of nearby galaxies](https://arxiv.org/pdf/2304.11179.pdf)
+* [The Northern Cross Fast Radio Burst project - III. The FRB-magnetar connection in a sample of nearby galaxies](https://arxiv.org/pdf/2304.11179.pdf)
 * [Neutron star phase transition as the origin for the fast radio bursts and soft gamma-ray repeaters of SGR J1935+2154](https://arxiv.org/pdf/2304.10871.pdf)
 * [TONE: A CHIME/FRB Outrigger Pathfinder for localizations of Fast Radio Bursts using Very Long Baseline Interferometry](https://arxiv.org/pdf/2304.10534.pdf)
 * [Constraining the Molecular Gas Content of Fast Radio Burst (FRB) Host Galaxies](https://arxiv.org/pdf/2304.10377.pdf)
@@ -61,16 +61,3 @@
 * [An FRB Sent Me a DM: Constraining the Electron Column of the Milky Way Halo with Fast Radio Burst Dispersion Measures from CHIME/FRB](https://arxiv.org/pdf/2301.03502.pdf)
 * [Atlas of dynamic spectra of fast radio burst FRB 20201124A](https://arxiv.org/pdf/2301.01429.pdf)
 * [Deep Synoptic Array science: a 50 Mpc fast radio burst constrains the mass of the Milky Way circumgalactic medium](https://arxiv.org/pdf/2301.01000.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-* 
