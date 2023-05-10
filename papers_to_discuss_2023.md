@@ -1,3 +1,4 @@
+* [PULSAR OBSERVATIONS AT LOW LATITUDES AND LOW FREQUENCIES](https://arxiv.org/pdf/2305.05458.pdf)
 * [Scaling and Universality in the Temporal Occurrence of Repeating FRBs](https://arxiv.org/pdf/2305.04738.pdf)
 * [On the problems of detecting Fast Radio Bursts with the LPA LPI](https://arxiv.org/pdf/2305.02778.pdf)
 * [Confining Burst Energy Function and Spectral Fringe Pattern of FRB 20121102A with MultiFrequency Observations](https://arxiv.org/pdf/2305.02598.pdf)
