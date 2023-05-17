@@ -1,3 +1,4 @@
+* [Hunting for gamma-ray emission from Fast Radio Bursts](https://arxiv.org/pdf/2305.09428.pdf)
 * [Implications of Spectra and Polarizations of Fast Radio Bursts: From Perspective of Radiation Mechanisms](https://arxiv.org/pdf/2305.08649.pdf)
 * [Measuring the Variance of the Macquart Relation in z-DM Modeling](https://arxiv.org/pdf/2305.07022.pdf)
 * [Propagation effects at low frequencies seen in the LOFAR long-term monitoring of the periodically active FRB 20180916B](https://arxiv.org/pdf/2305.06393.pdf)
