@@ -1,3 +1,6 @@
+* [Connecting the Young Pulsars in Milky Way Globular Clusters with White Dwarf Mergers and the M81 Fast Radio Burst](https://arxiv.org/pdf/2305.11933.pdf)
+* [Two-Screen Scattering in CRAFT FRBs](https://arxiv.org/pdf/2305.11477.pdf)
+* [Flux Calibration of CHIME/FRB Intensity Data](https://arxiv.org/pdf/2305.11302.pdf)
 * [Hunting for gamma-ray emission from Fast Radio Bursts](https://arxiv.org/pdf/2305.09428.pdf)
 * [Implications of Spectra and Polarizations of Fast Radio Bursts: From Perspective of Radiation Mechanisms](https://arxiv.org/pdf/2305.08649.pdf)
 * [Measuring the Variance of the Macquart Relation in z-DM Modeling](https://arxiv.org/pdf/2305.07022.pdf)
