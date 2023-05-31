@@ -1,3 +1,10 @@
+* 
+* [Formation of population inversions in relativistic plasmas through nonresonant interactions with Alfv´en waves](https://arxiv.org/pdf/2305.18935.pdf)
+* [Simultaneous and panchromatic observations of the Fast Radio Burst FRB 20180916B](https://arxiv.org/pdf/2305.18628.pdf)
+* [A 4–8 GHz Galactic Center Search for Periodic Technosignatures](https://arxiv.org/pdf/2305.18527.pdf)
+* [FRBs’ Brownian Motion on Time-Energy Bivariate Space](https://arxiv.org/pdf/2305.18052.pdf)
+* [Tidal capture of an asteroid by a magnetar: FRB-like bursts, glitch and anti-glitch](https://arxiv.org/pdf/2305.17316.pdf)
+* [WALLABY Pilot Survey: HI in the host galaxy of a Fast Radio Burst](https://arxiv.org/pdf/2305.14863.pdf)
 * [Connecting the Young Pulsars in Milky Way Globular Clusters with White Dwarf Mergers and the M81 Fast Radio Burst](https://arxiv.org/pdf/2305.11933.pdf)
 * [Two-Screen Scattering in CRAFT FRBs](https://arxiv.org/pdf/2305.11477.pdf)
 * [Flux Calibration of CHIME/FRB Intensity Data](https://arxiv.org/pdf/2305.11302.pdf)
