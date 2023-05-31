@@ -10,19 +10,19 @@ Papers Discussed:
 
 * [THE DISPERSION AND ROTATION MEASURE OF SUPERNOVA REMNANTS AND MAGNETIZED STELLAR WINDS: APPLICATION TO FAST RADIO BURSTS](https://arxiv.org/pdf/1804.01104.pdf) by Graham Doskoch
 
-* [An FRB Sent Me a DM: Constraining the Electron Column of the Milky Way Halo with Fast Radio Burst Dispersion Measures from CHIME/FRB](https://arxiv.org/pdf/2301.03502.pdf) by Reshma Anna-Thomas
+* [An FRB Sent Me a DM: Constraining the Electron Column of the Milky Way Halo with Fast Radio Burst Dispersion Measures from CHIME/FRB](https://arxiv.org/pdf/2301.03502.pdf) by Reshma Anna Thomas
 
 <h2> 24 May 2023 </h2>
 
 Papers Discussed:
 
-* [CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources](https://arxiv.org/pdf/2301.08762.pdf)
+* [CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources](https://arxiv.org/pdf/2301.08762.pdf) by Reshma Anna Thomas
 
 <h2> 17 May 2023 </h2>
 
 Papers Discussed:
 
-* [Deep Synoptic Array science: a 50 Mpc fast radio burst constrains the mass of the Milky Way circumgalactic medium](https://arxiv.org/pdf/2301.01000.pdf)
+* [Deep Synoptic Array science: a 50 Mpc fast radio burst constrains the mass of the Milky Way circumgalactic medium](https://arxiv.org/pdf/2301.01000.pdf) by Reshma Anna Thomas
 
 <h2>  1 December 2022 </h2>
 
