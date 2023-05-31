@@ -6,6 +6,16 @@ Public repository for FRB Journal Club at Department of Physics and Astronomy at
 
 Papers Discussed:
 
+* [FAST Observations of FRB 20220912A: Burst Properties and Polarization Characteristics](https://arxiv.org/pdf/2304.14665.pdf) by Susannah Paine
+
+* [THE DISPERSION AND ROTATION MEASURE OF SUPERNOVA REMNANTS AND MAGNETIZED STELLAR WINDS: APPLICATION TO FAST RADIO BURSTS](https://arxiv.org/pdf/1804.01104.pdf) by Graham Doskoch
+
+* [An FRB Sent Me a DM: Constraining the Electron Column of the Milky Way Halo with Fast Radio Burst Dispersion Measures from CHIME/FRB](https://arxiv.org/pdf/2301.03502.pdf) by Reshma Anna-Thomas
+
+<h2> 24 May 2023 </h2>
+
+Papers Discussed:
+
 * [CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources](https://arxiv.org/pdf/2301.08762.pdf)
 
 <h2> 17 May 2023 </h2>
