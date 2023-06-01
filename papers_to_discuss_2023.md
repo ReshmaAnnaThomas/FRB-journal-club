@@ -1,4 +1,5 @@
-
+* [Inferring redshift and energy distributions of fast radio bursts from the first CHIME/FRB catalog](https://arxiv.org/pdf/2305.19692.pdf)
+* [Free Energy of Anisotropic Strangeon Stars](https://arxiv.org/pdf/2305.19687.pdf)
 * [Formation of population inversions in relativistic plasmas through nonresonant interactions with Alfv´en waves](https://arxiv.org/pdf/2305.18935.pdf)
 * [Simultaneous and panchromatic observations of the Fast Radio Burst FRB 20180916B](https://arxiv.org/pdf/2305.18628.pdf)
 * [A 4–8 GHz Galactic Center Search for Periodic Technosignatures](https://arxiv.org/pdf/2305.18527.pdf)
