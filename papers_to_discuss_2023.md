@@ -1,3 +1,8 @@
+* [Fast estimation of the look-elsewhere effect using Gaussian random fields](https://arxiv.org/pdf/2306.01713.pdf)
+* [Geometrical envelopes of fast radio bursts](https://arxiv.org/pdf/2306.01336.pdf)
+* [GW190425 and FRB20190425A: Challenges for Fast Radio Bursts as Multi-Messenger Sources from Binary Neutron Star Mergers](https://arxiv.org/pdf/2306.00948.pdf)
+* [Fine structures of radio bursts from flare star AD Leo with FAST observations](https://arxiv.org/pdf/2306.00895.pdf)
+* [How limiting is optical follow-up for fast radio burst applications? Forecasts for radio and optical surveys](https://arxiv.org/pdf/2306.00084.pdf)
 * [Inferring redshift and energy distributions of fast radio bursts from the first CHIME/FRB catalog](https://arxiv.org/pdf/2305.19692.pdf)
 * [Free Energy of Anisotropic Strangeon Stars](https://arxiv.org/pdf/2305.19687.pdf)
 * [Formation of population inversions in relativistic plasmas through nonresonant interactions with Alfv´en waves](https://arxiv.org/pdf/2305.18935.pdf)
