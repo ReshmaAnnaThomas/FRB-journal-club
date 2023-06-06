@@ -1,3 +1,6 @@
+* [RRAT J1913+1330: an extremely variable and puzzling pulsar](https://arxiv.org/pdf/2306.02855.pdf)
+* [The zoo of isolated neutron stars](https://arxiv.org/pdf/2306.02084.pdf)
+* [Periodically Modulated FRB as Extreme Mass Ratio Binaries](https://arxiv.org/pdf/2306.01877.pdf)
 * [Fast estimation of the look-elsewhere effect using Gaussian random fields](https://arxiv.org/pdf/2306.01713.pdf)
 * [Geometrical envelopes of fast radio bursts](https://arxiv.org/pdf/2306.01336.pdf)
 * [GW190425 and FRB20190425A: Challenges for Fast Radio Bursts as Multi-Messenger Sources from Binary Neutron Star Mergers](https://arxiv.org/pdf/2306.00948.pdf)
