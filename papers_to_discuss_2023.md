@@ -1,3 +1,4 @@
+* [Systematic performance of the ASKAP Fast Radio Burst search algorithm](https://arxiv.org/pdf/2306.03886.pdf)
 * [RRAT J1913+1330: an extremely variable and puzzling pulsar](https://arxiv.org/pdf/2306.02855.pdf)
 * [The zoo of isolated neutron stars](https://arxiv.org/pdf/2306.02084.pdf)
 * [Periodically Modulated FRB as Extreme Mass Ratio Binaries](https://arxiv.org/pdf/2306.01877.pdf)
