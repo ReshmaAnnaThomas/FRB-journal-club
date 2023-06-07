@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 7 June 2023 </h2>
+
+Papers Discussed:
+
+* [Deep Synoptic Array science: Two fast radio burst sources in massive galaxy clusters](https://arxiv.org/pdf/2302.14788.pdf)
+
+* [Deep Synoptic Array science: A massive elliptical host among two galaxy-cluster fast radio bursts](https://arxiv.org/pdf/2302.14782.pdf)
+
 <h2> 31 May 2023 </h2>
 
 Papers Discussed:
