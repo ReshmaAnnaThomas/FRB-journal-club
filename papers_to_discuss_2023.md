@@ -1,3 +1,4 @@
+* [The FRB20190520B Sightline Intersects Foreground Galaxy Clusters](https://arxiv.org/pdf/2306.05403.pdf)
 * [Systematic performance of the ASKAP Fast Radio Burst search algorithm](https://arxiv.org/pdf/2306.03886.pdf)
 * [RRAT J1913+1330: an extremely variable and puzzling pulsar](https://arxiv.org/pdf/2306.02855.pdf)
 * [The zoo of isolated neutron stars](https://arxiv.org/pdf/2306.02084.pdf)
