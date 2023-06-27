@@ -1,3 +1,8 @@
+* [Fast radio bursts trigger aftershocks resembling earthquakes, but not solar flares](https://arxiv.org/pdf/2306.13612.pdf)
+* [The X-ray Point Source Population Hosted by Globular Clusters in the Elliptical Galaxy NGC 4261](https://arxiv.org/pdf/2306.11948.pdf)
+* [Quasi-Periodic Peak Energy Oscillations in X-ray Bursts from SGR J1935+2154](https://arxiv.org/pdf/2306.08130.pdf)
+* [Detecting Fast Radio Bursts with Spectral Structure using the Continuous Forward Algorithm](https://arxiv.org/pdf/2306.07914.pdf)
+* [The temporally evolving energy and waiting time statistics of two repeating fast radio bursts](https://arxiv.org/pdf/2306.07585.pdf)
 * [The FRB20190520B Sightline Intersects Foreground Galaxy Clusters](https://arxiv.org/pdf/2306.05403.pdf)
 * [Systematic performance of the ASKAP Fast Radio Burst search algorithm](https://arxiv.org/pdf/2306.03886.pdf)
 * [RRAT J1913+1330: an extremely variable and puzzling pulsar](https://arxiv.org/pdf/2306.02855.pdf)
