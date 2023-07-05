@@ -1,5 +1,6 @@
+* [Modelling repetition in ZDM: a single population of repeating fast radio bursts can explain CHIME data](https://arxiv.org/pdf/2306.17403.pdf)
 * [Connecting repeating and non-repeating fast radio bursts via their energy distributions](https://arxiv.org/pdf/2306.15505.pdf)
-*  [Fast radio bursts trigger aftershocks resembling earthquakes, but not solar flares](https://arxiv.org/pdf/2306.13612.pdf)
+* [Fast radio bursts trigger aftershocks resembling earthquakes, but not solar flares](https://arxiv.org/pdf/2306.13612.pdf)
 * [The X-ray Point Source Population Hosted by Globular Clusters in the Elliptical Galaxy NGC 4261](https://arxiv.org/pdf/2306.11948.pdf)
 * [Quasi-Periodic Peak Energy Oscillations in X-ray Bursts from SGR J1935+2154](https://arxiv.org/pdf/2306.08130.pdf)
 * [Detecting Fast Radio Bursts with Spectral Structure using the Continuous Forward Algorithm](https://arxiv.org/pdf/2306.07914.pdf)
