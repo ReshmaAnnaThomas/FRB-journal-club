@@ -2,6 +2,12 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 5 July 2023 </h2>
+
+Papers Discussed:
+
+* [The FRB20190520B Sightline Intersects Foreground Galaxy Clusters](https://arxiv.org/pdf/2306.05403.pdf)
+
 <h2> 28 June 2023 </h2>
 
 Papers Discussed:
