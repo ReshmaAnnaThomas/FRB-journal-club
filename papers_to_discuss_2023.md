@@ -1,3 +1,6 @@
+* []
+* [Event Rate of Fast Radio Burst from Binary Neutron-star Mergers](https://arxiv.org/pdf/2307.02111.pdf)
+* [Cosmology with fast radio bursts in the era of SKA](https://arxiv.org/pdf/2307.01605.pdf)
 * [Modelling repetition in ZDM: a single population of repeating fast radio bursts can explain CHIME data](https://arxiv.org/pdf/2306.17403.pdf)
 * [Connecting repeating and non-repeating fast radio bursts via their energy distributions](https://arxiv.org/pdf/2306.15505.pdf)
 * [Fast radio bursts trigger aftershocks resembling earthquakes, but not solar flares](https://arxiv.org/pdf/2306.13612.pdf)
