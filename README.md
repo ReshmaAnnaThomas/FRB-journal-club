@@ -2,6 +2,18 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 12 July 2023 </h2>
+
+Papers Discussed:
+
+* [GW190425 and FRB20190425A: Challenges for Fast Radio Bursts as Multi-Messenger Sources from Binary Neutron Star Mergers](https://arxiv.org/pdf/2306.00948.pdf) by Graham Doskoch
+
+* [How limiting is optical follow-up for fast radio burst applications? Forecasts for radio and optical surveys](https://arxiv.org/pdf/2306.00084.pdf) by Graham Doskoch
+
+* [Reanalysis of the X-ray burst associated FRB 200428 with Insight-HXMT observations](https://arxiv.org/pdf/2302.00176.pdf) by Sarah Burke Spolaor
+
+* [Multi-wavelength afterglow emission from bursts associated with magnetar flares and fast radio bursts](https://arxiv.org/pdf/2301.10184.pdf) by Reshma Anna Thomas
+
 <h2> 5 July 2023 </h2>
 
 Papers Discussed:
