@@ -1,4 +1,14 @@
-* []
+* [A CHIME/FRB study of burst rate and morphological evolution of the periodically repeating FRB 20180916B](https://arxiv.org/pdf/2307.05839.pdf)
+* [Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events](https://arxiv.org/pdf/2307.05262.pdf)
+* [Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs](https://arxiv.org/pdf/2307.05261.pdf)
+* [Cosmography from well-localized Fast Radio Bursts](https://arxiv.org/pdf/2307.04711.pdf)
+* [AN X-RAY CENSUS OF FAST RADIO BURST HOST GALAXIES: CONSTRAINTS ON AGN AND X-RAY COUNTERPARTS](https://arxiv.org/pdf/2307.03766.pdf)
+* [Deep Synoptic Array Science: First FRB and Host Galaxy Catalog](https://arxiv.org/pdf/2307.03344.pdf)
+* [Rotation measure variations in Galactic Centre pulsars](https://arxiv.org/pdf/2307.03230.pdf)
+* [Machine Learning Classification of Repeating FRBs from FRB121102](https://arxiv.org/pdf/2307.02811.pdf)
+* [Microsecond-duration bursts from FRB 20121102A](https://arxiv.org/pdf/2307.02303.pdf)
+* [Statistical properties and lensing effect on the repeating fast radio
+burst FRB 180916.J0158+65](https://arxiv.org/pdf/2307.02230.pdf)
 * [Event Rate of Fast Radio Burst from Binary Neutron-star Mergers](https://arxiv.org/pdf/2307.02111.pdf)
 * [Cosmology with fast radio bursts in the era of SKA](https://arxiv.org/pdf/2307.01605.pdf)
 * [Modelling repetition in ZDM: a single population of repeating fast radio bursts can explain CHIME data](https://arxiv.org/pdf/2306.17403.pdf)
