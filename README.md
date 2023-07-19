@@ -2,6 +2,18 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 19 July 2023 </h2>
+
+Papers Discussed:
+
+* [The discovery, monitoring and environment of SGR J1935+2154](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3448I/abstract) by Reshma Anna Thomas
+
+* [Radio Pulsation Search and Imaging Study of SGR J1935+2154](https://iopscience.iop.org/article/10.3847/0004-637X/826/2/184/pdf) by Reshma Anna Thomas
+
+* [X-Ray and Radio Observations of the Magnetar SGR J1935+2154 during Its 2014, 2015, and 2016 Outbursts](https://ui.adsabs.harvard.edu/abs/2017ApJ...847...85Y/abstract) by Reshma Anna Thomas
+
+* [Search for gravitational-wave transients associated with magnetar bursts during the third Advanced LIGO and Advanced Virgo observing run](https://ui.adsabs.harvard.edu/abs/2023IAUS..363..187M/abstract) by Graham Doskoch
+
 <h2> 12 July 2023 </h2>
 
 Papers Discussed:
