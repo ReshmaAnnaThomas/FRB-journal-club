@@ -1,3 +1,7 @@
+* [Temporal and Spectral Properties of the Persistent Radio Source Associated with FRB 20190520B with the VLA](https://arxiv.org/pdf/2307.16355.pdf)
+* [A radio pulsar phase from SGR J1935+2154 provides clues to the magnetar FRB mechanism](https://arxiv.org/pdf/2307.16124.pdf)
+* [Single Millisecond Pulsars from Dynamical Interaction Processes in Dense Star Clusters](https://arxiv.org/pdf/2307.15740.pdf)
+* [Constraining the FRB mechanism from scintillation in the host galaxy](https://arxiv.org/pdf/2307.15294.pdf)
 * [The unseen host galaxy and high dispersion measure of a precisely-localised Fast Radio Burst suggests a high-redshift origin](https://arxiv.org/pdf/2307.14702.pdf)
 * [Change of rotation measure during eclipse of a black widow PSR J2051−0827](https://arxiv.org/pdf/2307.13198.pdf)
 * [Damping of strong GHz waves near magnetars and the origin of fast radio bursts](https://arxiv.org/pdf/2307.12182.pdf)
