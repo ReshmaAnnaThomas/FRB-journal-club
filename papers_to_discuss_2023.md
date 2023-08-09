@@ -1,4 +1,6 @@
-* [Temporal and Spectral Properties of the Persistent Radio Source Associated with FRB 20190520B with the VLA](https://arxiv.org/pdf/2307.16355.pdf)
+* [FRB 20121102A: images of the bursts and the varying radio counterpart](https://arxiv.org/pdf/2308.04298.pdf)
+* [Blinkverse: A Database of Fast Radio Bursts](https://arxiv.org/pdf/2308.00336.pdf)
+*  [Temporal and Spectral Properties of the Persistent Radio Source Associated with FRB 20190520B with the VLA](https://arxiv.org/pdf/2307.16355.pdf)
 * [A radio pulsar phase from SGR J1935+2154 provides clues to the magnetar FRB mechanism](https://arxiv.org/pdf/2307.16124.pdf)
 * [Single Millisecond Pulsars from Dynamical Interaction Processes in Dense Star Clusters](https://arxiv.org/pdf/2307.15740.pdf)
 * [Constraining the FRB mechanism from scintillation in the host galaxy](https://arxiv.org/pdf/2307.15294.pdf)
