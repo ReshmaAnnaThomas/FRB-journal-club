@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 9 August 2023 </h2>
+
+Papers Discussed:
+
+* [Burst Phase Distribution of SGR J1935+2154 Based on Insight-HXMT](https://ui.adsabs.harvard.edu/abs/2023RAA....23c5007L/abstract) by Evan Lewis
+
+* [A radio pulsar phase from SGR J1935+2154 provides clues to the magnetar FRB mechanism](https://arxiv.org/pdf/2307.16124.pdf) by Reshma Anna Thomas
+
 <h2> 19 July 2023 </h2>
 
 Papers Discussed:
