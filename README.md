@@ -2,6 +2,18 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 16 August 2023 </h2>
+
+Papers Discussed:
+
+*[RRAT J1913+1330: an extremely variable and puzzling pulsar](https://arxiv.org/pdf/2306.02855.pdf) by Graham Doskoch
+
+*[Magnetar spin-down glitch clearing the way for FRB-like bursts and a pulsed radio episode](https://ui.adsabs.harvard.edu/abs/2023NatAs...7..339Y/abstract) by Reshma Anna Thomas
+
+*[A giant glitch from the magnetar SGR J1935+2154 before FRB 200428](https://arxiv.org/abs/2211.03246) by Reshma Anna Thomas
+
+
+
 <h2> 9 August 2023 </h2>
 
 Papers Discussed:
