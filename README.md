@@ -2,6 +2,17 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 30 August 2023 </h2>
+
+A broad discussion on using ALMA/ACT/mm wavelengths for FRB studies.
+
+<h2> 23 August 2023 </h2>
+
+* [The FRB–SGR connection](https://academic.oup.com/mnras/article/499/2/2319/5917434) by Reshma Anna Thomas
+
+* [Atypical radio pulsations from magnetar SGR 1935+2154](https://arxiv.org/pdf/2308.08832.pdf) by Reshma Anna Thomas
+
+
 <h2> 16 August 2023 </h2>
 
 Papers Discussed:
