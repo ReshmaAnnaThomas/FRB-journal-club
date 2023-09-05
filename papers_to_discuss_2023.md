@@ -1,3 +1,5 @@
+* [Gravitational Lensing in Modified Gravity: A case study for Fast Radio Bursts](https://arxiv.org/pdf/2308.16604.pdf)
+* [A LOFAR prompt search for radio emission accompanying X-ray flares in GRB 210112A](https://arxiv.org/pdf/2308.16121.pdf)
 * [Searching for the spectral depolarisation of ASKAP one-off FRB sources](https://arxiv.org/pdf/2308.14387.pdf)
 * [Polarization Evolution of Fast Radio Burst Sources in Binary Systems](https://arxiv.org/pdf/2308.14325.pdf)
 * [Constraints on the persistent radio source associated with FRB 20190520B using the European VLBI Network](https://arxiv.org/pdf/2308.12801.pdf)
