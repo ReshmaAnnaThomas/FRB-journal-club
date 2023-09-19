@@ -1,3 +1,18 @@
+* [Calibrating baryonic feedback with weak lensing and fast radio bursts](https://arxiv.org/pdf/2309.09766.pdf)
+* [Fast Radio Bursts: Electromagnetic Counterparts to Extreme Mass Ratio Inspirals](https://arxiv.org/pdf/2309.09448.pdf)
+* [ON THE ESCAPE OF LOW-FREQUENCY WAVES FROM MAGNETOSPHERES OF NEUTRON STARS](https://arxiv.org/pdf/2309.09218.pdf)
+* [The Dispersion Measure Contributions of the Cosmic Web](https://arxiv.org/pdf/2309.08268.pdf)
+* [Host Galaxy Dispersion Measure of Fast Radio Burst](https://arxiv.org/pdf/2309.07751.pdf)
+* [Temporal evolution of depolarization and magnetic field of FRB 20201124A](https://arxiv.org/pdf/2309.06653.pdf)
+* [FRBs from rapid spindown neutron stars](https://arxiv.org/pdf/2309.06328.pdf)
+* [Coherent Cherenkov Radiation by Bunches in Fast Radio Bursts](https://arxiv.org/pdf/2309.06050.pdf)
+* [The FAST Galactic Plane Pulsar Snapshot survey:
+IV. Discovery of five fast radio bursts](https://arxiv.org/pdf/2309.04826.pdf)
+* [Electromagnetic precursors to black hole – neutron star gravitational wave events:
+Flares and reconnection-powered fast-radio transients from the late inspiral](https://arxiv.org/pdf/2309.04271.pdf)
+* [Revised Constraints on the fast radio burst population from the first CHIME/FRB catalog](https://arxiv.org/pdf/2309.02907.pdf)
+* [All sky archival search for FRB high energy counterparts with Swift and Fermi](https://arxiv.org/pdf/2309.02883.pdf)
+* [A Unified Geometric Model of Repeating and Non-Repeating Fast Radio Bursts](https://arxiv.org/pdf/2309.01847.pdf)
 * [Gravitational Lensing in Modified Gravity: A case study for Fast Radio Bursts](https://arxiv.org/pdf/2308.16604.pdf)
 * [A LOFAR prompt search for radio emission accompanying X-ray flares in GRB 210112A](https://arxiv.org/pdf/2308.16121.pdf)
 * [Searching for the spectral depolarisation of ASKAP one-off FRB sources](https://arxiv.org/pdf/2308.14387.pdf)
