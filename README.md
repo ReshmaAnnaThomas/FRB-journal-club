@@ -2,9 +2,37 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2> 20 September 2023 </h2>
+
+* [Fast Radio Bursts: Electromagnetic Counterparts to Extreme Mass Ratio Inspirals](https://arxiv.org/pdf/2309.09448.pdf)
+
+* [Host Galaxy Dispersion Measure of Fast Radio Burst](https://arxiv.org/pdf/2309.07751.pdf)
+
+* [The FAST Galactic Plane Pulsar Snapshot survey: IV. Discovery of five fast radio bursts](https://arxiv.org/pdf/2309.04826.pdf)
+
+  Discussion about periodic FRBs.
+
+* [Periodic activity from a fast radio burst source](https://www.nature.com/articles/s41586-020-2398-2)
+
+* [Possible periodic activity in the repeating FRB 121102](https://arxiv.org/abs/2003.03596)
+
+* [Sub-second periodicity in a fast radio burst](https://www.nature.com/articles/s41586-022-04841-8)
+
+* [A fast radio burst with sub-millisecond quasi-periodic structure](https://arxiv.org/abs/2202.08002)
+
+<h2> 6 September 2023 </h2>
+
+Discussion about FRBs as probes of CGM and IGM.
+
+
 <h2> 30 August 2023 </h2>
 
 A broad discussion on using ALMA/ACT/mm wavelengths for FRB studies.
+
+* [Diverse Properties of Molecular Gas in the Host Galaxies of Fast Radio Bursts] by Reshma Anna-Thomas
+
+* [Constraining the Molecular Gas Content of Fast Radio Burst (FRB) Host Galaxies] by Reshma Anna-Thomas
+
 
 <h2> 23 August 2023 </h2>
 
