@@ -29,9 +29,9 @@ Discussion about FRBs as probes of CGM and IGM.
 
 A broad discussion on using ALMA/ACT/mm wavelengths for FRB studies.
 
-* [Diverse Properties of Molecular Gas in the Host Galaxies of Fast Radio Bursts] by Reshma Anna-Thomas
+* [Diverse Properties of Molecular Gas in the Host Galaxies of Fast Radio Bursts](https://iopscience.iop.org/article/10.3847/2041-8213/ac9f39/pdf) by Reshma Anna-Thomas
 
-* [Constraining the Molecular Gas Content of Fast Radio Burst (FRB) Host Galaxies] by Reshma Anna-Thomas
+* [Constraining the Molecular Gas Content of Fast Radio Burst (FRB) Host Galaxies](https://arxiv.org/abs/2304.10377) by Reshma Anna-Thomas
 
 
 <h2> 23 August 2023 </h2>
