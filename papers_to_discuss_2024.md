@@ -1,3 +1,9 @@
+
+* [A search for millisecond radio bursts from Messier 82](https://arxiv.org/pdf/2401.17242.pdf)
+* [The Circular Polarization Reverse in Magnetar Bursts](https://arxiv.org/pdf/2401.16783.pdf)
+* [Similarity to earthquakes again: periodic radio pulses of the magnetar SGR 1935+2154 are accompanied by aftershocks like fast radio bursts](https://arxiv.org/pdf/2401.16758.pdf)
+* [Scale-invariant Phenomena in Repeating Fast Radio Bursts and Glitching Pulsars](https://arxiv.org/pdf/2401.13916.pdf)
+* [Detecting Dark Matter Substructures on Small Scales with Fast Radio Bursts](https://arxiv.org/pdf/2401.08862.pdf)
 * [NE2001p: A Native Python Implementation of the NE2001 Galactic Electron Density Model](https://arxiv.org/pdf/2401.05475.pdf)
 * [Exploring f(T) Gravity via strongly lensed fast radio bursts](https://arxiv.org/pdf/2401.05464.pdf)
 * [A commensal Fast Radio Burst search pipeline for the Murchison Widefield Array](https://arxiv.org/pdf/2401.04346.pdf)
