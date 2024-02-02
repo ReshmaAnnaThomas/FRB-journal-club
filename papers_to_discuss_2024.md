@@ -1,4 +1,5 @@
-
+* [FLIMFLAM DR1: The First Constraints on the Cosmic Baryon Distribution from 8 FRB sightlines](https://arxiv.org/pdf/2402.00505.pdf)
+* [Detecting Extragalactic Axion-like Dark Matter with Polarization Measurements of Fast Radio Bursts](https://arxiv.org/pdf/2402.00473.pdf)
 * [A search for millisecond radio bursts from Messier 82](https://arxiv.org/pdf/2401.17242.pdf)
 * [The Circular Polarization Reverse in Magnetar Bursts](https://arxiv.org/pdf/2401.16783.pdf)
 * [Similarity to earthquakes again: periodic radio pulses of the magnetar SGR 1935+2154 are accompanied by aftershocks like fast radio bursts](https://arxiv.org/pdf/2401.16758.pdf)
