@@ -1,4 +1,7 @@
-* [An X-ray and radio view of the 2022 reactivation of the magnetar SGR J1935+2154](https://arxiv.org/pdf/2402.08596.pdf)
+* [Simultaneous multi-wavelength observations of the repeating fast radio burst FRB 20190520B with Swift and FAST](https://arxiv.org/pdf/2402.12084.pdf)
+* [A pulsar-like swing in the polarisation po- sition angle of a nearby fast radio burst](https://arxiv.org/pdf/2402.09304.pdf)
+* [Rapid spin changes around a magnetar fast radio burst](https://arxiv.org/pdf/2402.09291.pdf)
+*  [An X-ray and radio view of the 2022 reactivation of the magnetar SGR J1935+2154](https://arxiv.org/pdf/2402.08596.pdf)
 * [CHIME/FRB Outriggers: KKO Station System and Commissioning Results](https://arxiv.org/pdf/2402.07898.pdf)
 * [Recovering pulsar periodicity from time of arrival data by finding the shortest vector in a lattice](https://arxiv.org/pdf/2402.07228.pdf)
 * [On the Broadening of the Pulse Width of FRB 20121102A due to Propagation and Instrumental Effects](https://arxiv.org/pdf/2402.02360.pdf)
