@@ -2,6 +2,15 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+Weekly meeting updates
+
+<h2> 23 February 2024 </h2>
+
+ * [Rapid spin changes around a magnetar fast radio burst](https://arxiv.org/pdf/2402.09291.pdf) by Graham Doskoch
+
+ * [A pulsar-like swing in the polarisation position angle of a nearby fast radio burst](https://arxiv.org/pdf/2402.09304.pdf)  by Reshma Anna Thomas
+
+
 <h2> 20 September 2023 </h2>
 
 * [Fast Radio Bursts: Electromagnetic Counterparts to Extreme Mass Ratio Inspirals](https://arxiv.org/pdf/2309.09448.pdf)
