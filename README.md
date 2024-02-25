@@ -10,6 +10,12 @@ Public repository for FRB Journal Club at Department of Physics and Astronomy at
 
  * [A pulsar-like swing in the polarisation position angle of a nearby fast radio burst](https://arxiv.org/pdf/2402.09304.pdf)  by Reshma Anna Thomas
 
+ATels
+
+ * [ASKAP detection of a repeating fast radio burst source](https://www.astronomerstelegram.org/?read=16468)
+
+ * [CHIME/FRB discovery of a new repeating fast radio burst source FRB 20240114A](https://www.astronomerstelegram.org/?read=16420)
+
 
 <h2> 20 September 2023 </h2>
 
